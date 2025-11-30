@@ -5,7 +5,7 @@ public class ArraylistBasics {
         ArrayList<String> list2 = new ArrayList<>();
         ArrayList<Boolean> list3 = new ArrayList<>();
 
-        //Add Operation
+    
         list.add(1);
         list.add(2);
         list.add(3);
